@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maerd-zinbieL&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maerd-zinbieL&layout=compact&count_private=true&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maerd-zinbieL&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **maerd-zinbieL/maerd-zinbieL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
